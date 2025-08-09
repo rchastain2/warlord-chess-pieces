@@ -1,19 +1,16 @@
 # Warlord Chess Pieces
 
-Chess pieces of the [Warlord](https://www.chessprogramming.org/Warlord) chess program by William H. Rogers.
+Chess pieces of the [Warlord chess program](https://www.chessprogramming.org/Warlord) by William H. Rogers.
 
 The chess pieces are stored in the file *warlord.txt*.
 
-The repository includes a Lazarus project (using BGRABitmap library) for converting the text file to bitmaps.
+The repository includes a Lazarus project (using BGRABitmap library) for creating BMP files.
 
-![alt text](magick-montage/warlord-chess-graphics.bmp)
-![alt text](magick-montage/warlord-chess-graphics-without-outline.bmp)
-![alt text](magick-montage/warlord-chess-graphics-96.bmp)
-![alt text](magick-montage/warlord-chess-graphics-without-outline-96.bmp)
+![Image](magick-montage/warlord-chess-graphics-without-outline.bmp)
 
-There is another Lazarus project for cutting the bitmap into individual transparent PNG images.
+There is another Lazarus project for creating PNG files.
 
-![alt text](https://raw.githubusercontent.com/rchastain/warlord-chess-pieces/main/lazarus-bitmap-cut/png/bq.png)
+![Image](lazarus-txt2png/bq.png)
 
 The repository also includes a FreeBASIC chessboard demo using the Warlord chess pieces.
 

@@ -4,9 +4,12 @@ Chess pieces of the [Warlord](https://www.chessprogramming.org/Warlord) chess pr
 
 The chess pieces are stored in the file *warlord.txt*.
 
-The repository includes a Lazarus project (using BGRABitmap library) for converting the text file to a bitmap.
+The repository includes a Lazarus project (using BGRABitmap library) for converting the text file to bitmaps.
 
-![alt text](https://raw.githubusercontent.com/rchastain/warlord-chess-pieces/main/warlord-chess-graphics.bmp)
+![alt text](magick-montage/warlord-chess-graphics.bmp)
+![alt text](magick-montage/warlord-chess-graphics-without-outline.bmp)
+![alt text](magick-montage/warlord-chess-graphics-96.bmp)
+![alt text](magick-montage/warlord-chess-graphics-without-outline-96.bmp)
 
 There is another Lazarus project for cutting the bitmap into individual transparent PNG images.
 

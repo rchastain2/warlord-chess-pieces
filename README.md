@@ -20,4 +20,4 @@ The Warlord chess pieces are used in [Eschecs FreeBASIC](https://www.freebasic-p
 
 ## Notice
 
-This is the continuation of [this project](https://github.com/rchastain/warlord-chess-pieces).
+This is an update of [this project](https://github.com/rchastain/warlord-chess-pieces).

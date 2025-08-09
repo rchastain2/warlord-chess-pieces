@@ -1,0 +1,44 @@
+object Form1: TForm1
+  Left = 367
+  Height = 483
+  Top = 98
+  Width = 400
+  Caption = 'Warlord Chess Pieces'
+  ClientHeight = 483
+  ClientWidth = 400
+  Color = clBtnFace
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  LCLVersion = '3.6.0.0'
+  object EDInputFEN: TLabeledEdit
+    Left = 8
+    Height = 26
+    Top = 416
+    Width = 384
+    EditLabel.Height = 14
+    EditLabel.Width = 384
+    EditLabel.Caption = 'FEN'
+    EditLabel.ParentColor = False
+    TabOrder = 0
+    Text = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'
+  end
+  object BTViewPosition: TButton
+    Left = 272
+    Height = 25
+    Top = 450
+    Width = 120
+    Caption = 'View'
+    TabOrder = 1
+    OnClick = BTViewPositionClick
+  end
+  object PBChessboard: TPaintBox
+    Left = 8
+    Height = 384
+    Top = 8
+    Width = 384
+    OnPaint = PBChessboardPaint
+  end
+end

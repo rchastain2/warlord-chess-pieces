@@ -8,13 +8,13 @@ The repository includes a Lazarus project (using BGRABitmap library) for creatin
 
 ![Image](magick-montage/warlord-chess-graphics-without-outline.bmp)
 
-There is another Lazarus project for creating PNG files.
+There is another version of the Lazarus project, for creating PNG files.
 
 ![Image](lazarus-txt2png/bq.png)
 
 The repository also includes a FreeBASIC chessboard demo using the Warlord chess pieces.
 
-![alt text](https://raw.githubusercontent.com/rchastain/warlord-chess-pieces/main/freebasic-chessboard-demo/screenshot.png)
+![Screenshot](freebasic-demo/screenshot.png)
 
 The Warlord chess pieces are used in [Eschecs FreeBASIC](https://www.freebasic-portal.de/downloads/spiele/eschecs-210.html).
 

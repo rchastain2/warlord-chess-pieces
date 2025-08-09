@@ -12,11 +12,7 @@ There is another version of the Lazarus project, for creating PNG files.
 
 ![Image](lazarus-txt2png/bq.png)
 
-The repository also includes a FreeBASIC chessboard demo using the Warlord chess pieces.
-
-![Screenshot](freebasic-demo/screenshot.png)
-
-The Warlord chess pieces are used in [Eschecs FreeBASIC](https://www.freebasic-portal.de/downloads/spiele/eschecs-210.html).
+The repository also includes a [FreeBASIC demo](freebasic-demo/) using the Warlord chess pieces.
 
 ## Notice
 
